@@ -5,6 +5,7 @@
 	"features": {
 		"color": "F5C827",
 		"select_menu_scene": "Slugcat_Prototype",
-		"select_menu_scene_ascended": "Ghost_Prototype"
+		"select_menu_scene_ascended": "Ghost_Prototype",
+		"time_stop": true
 	}
 }
