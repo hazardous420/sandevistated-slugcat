@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3906115198
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 660f1f224f916ccbbca40fb5b8a1c329
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 68c985bf88fecc38b460cdb825182138
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Shaders/rainbowTrail.shader
+Dependencies: []
