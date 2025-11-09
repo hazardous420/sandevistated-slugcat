@@ -1,0 +1,10 @@
+{
+	"id": "hazardous.sand",
+	"name": "Sandevistated",
+	"version": "0.1.0",
+	"authors": "hazardous",
+	"description": "You've fallen over the edge, punk.",
+	"requirements": [ "slime-cubed.slugbase","dressmyslugcat" ],
+	"requirements_names": [ "SlugBase", "Dress My Slugcat" ],
+	"tags": [ "Custom Slugcat" ]
+}

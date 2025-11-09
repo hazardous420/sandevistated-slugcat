@@ -1,0 +1,10 @@
+{
+	"id": "Sandevistated",
+	"name": "The Sandevistated",
+	"description": "You've fallen over the edge, punk.",
+	"features": {
+		"color": "F5C827",
+		"select_menu_scene": "Slugcat_Prototype",
+		"select_menu_scene_ascended": "Ghost_Prototype"
+	}
+}
